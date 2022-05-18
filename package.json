@@ -21,7 +21,7 @@
   "dependencies": {
     "@solana/web3.js": "^1.25.0",
     "commander": "^8.1.0",
-    "p-retry": "^4.6.1"
+    "p-retry": "^4.6.2"
   },
   "devDependencies": {
     "@types/node": "^16.9.0",
